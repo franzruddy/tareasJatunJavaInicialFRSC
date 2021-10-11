@@ -1,0 +1,135 @@
+
+Ejercicio 1.
+------------
+Inicio
+1. Encender la computadora.  
+2. Insertar un Cd en blanco.
+3. Copiar parte de la información que quede, que no sobre pase los 700Mb de información.
+4. Retirar el Cd.
+5. Actualizar un conteo de Cd's usados.
+6. Si queda aún información por copiar, volver al paso 2.
+7. Indicar la cantidad total de Cd's utilizados.
+8. indicar si el ultimo Cd tiene espacio disponible.
+FIN
+
+-----------------------------------------------------------------------------------------
+Ejercicio 2.
+------------
+Inicio
+1. Verificar el saldo actual. 
+2. Calcular el 5% del saldo actual.
+3. Actualizar tu saldo actual, sumando el porcentaje calculado.
+4. Incrementar el contador de meses.
+5. Si el contador de meses, es menor que doce meses, volver al Paso 1.
+6. Indicar el valor del saldo Actual.
+FIN
+
+-----------------------------------------------------------------------------------------
+Ejercicio 3.
+------------
+Inicio
+1. Verificar el monto total que tiene mari. 
+2. Comprar pases de 1.80 Bs. hasta que no sobrepasen los 45 Bs. de monto que tiene mari.
+3. Actualizar un conteo de cuantos pases se obtuvo hasta llegar al monto.
+4. Indicar el total de pases comprados con el valor total que tiene mari para los viajes.
+FIN
+
+25
+
+-----------------------------------------------------------------------------------------
+Ejercicio 4.
+------------
+Inicio
+1. Tomar en cuenta el peso inicial que se tiene Juliet en la bolsa.
+2. Al peso obtenido tener el valor entero sacando el valor y colocar el valor a cero.
+3. Empezar a descontar con el peso de la moneda con mayor valor de la bolsa.
+4. Actualizar el peso de la bolsa.
+5. Descontar el valor del peso sobrante con las monedas más pequeñas, hasta completar el peso sobrante obtenido en el paso 2.
+6. Sumar toda la cantidad total de monedas.
+7. mostrar cantidad de monedas según el valor máximo.
+FIN
+
+12
+
+2
+
+1
+
+-----------------------------------------------------------------------------------------
+Ejercicio 5.
+------------
+Inicio
+1. Verificar los datos de la figura
+2. Verificar el tipo de triángulos en la imagen.
+3. Obtener la formula del triángulo equilátero obtenido.
+4. Sacar los lados del triángulo obteniendo la longitud de la línea punteada.
+5. Sumar los dos lados para obtener la longitud del camino negros de la figura.
+6. Obtener el resultado del camino negro
+FIN
+40
+
+-----------------------------------------------------------------------------------------
+Ejercicio 6.
+------------
+Inicio
+1. Establecer la cantidad de horas que tiene un día. 
+2. Restar las horas de inicio de 2:45 a 2:00 sacando el restante.
+3. Restar las horas del despertar de 11:25 a 11:00 sacando el restante. 
+4. Iniciar el contador tomando en cuenta el inicio de 2:00 hasta el despertar de los jóvenes 11:00. 
+5. Actualizar del tiempo que paso del inicio al despertar. 
+6. Sumar el restantes  de inicio y despertar, retante final  y sacar el restante. 
+7. Sumar el restante final al tiempo que paso del inicio al despertar, tiempo que duerme. 
+8. Mostrar la suma del tiempo que durmió los joven en horas.   
+FIN
+
+10 horas 
+10 min
+
+-----------------------------------------------------------------------------------------
+Ejercicio 7.
+------------
+Inicio
+1. Verificar el estado actual de batería. 
+2. Convierto el consumo de batería utilizado de horas y minutos a porcentaje.
+3. Sumar el consumo de batería en porcentaje 
+4. Restar el consumo de batería al estado actual de batería del celular.
+FIN
+
+10 %
+2.5 %
+10 %
+22.5% consumido = 32.5%
+
+-----------------------------------------------------------------------------------------
+Ejercicio 8.
+------------
+Inicio
+1. Ingresar a YouTube para subir videos.  
+2. Añadir canciones con un valor mínimo de 2:30 min y máximo de 3:00 min. 
+3. Seguir añadiendo canciones hasta que no sobre pasen los 15 min. si no volver al paso 2.
+4. Actualizar un conteo de canciones añadidas.
+
+FIN
+de 5 a 6
+-----------------------------------------------------------------------------------------
+Ejercicio 9.
+------------
+Inicio
+1. Solicite el número de carnet de la persona que quiere ingresar.
+2. calcular el ultimo digito dividiendo entre 10 para sacar el residuo.
+3. Indicar el último número residual del carnet.
+4. Verificar si el último número residual del carnet esta habilitad para entrar al mercado. 
+FIN
+-----------------------------------------------------------------------------------------
+Ejercicio 10.
+-------------
+Inicio
+1. Verificar los días de la semana.
+2. Inicializar el contador el día miércoles.
+3. Si mi contador vuelve a caer día miércoles vuelve a preparar la cena. 
+4. Indicar la cantidad de días al caer el siguiente miércoles.
+FIN
+1.2.3.4.5.6.7
+L M M J V S D
+    -
+7 dias 
